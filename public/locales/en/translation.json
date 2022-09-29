@@ -3,5 +3,6 @@
   "language": "Русский",
   "about": "About page",
   "main": "Main page",
-  "toggle": "toggle"
+  "toggle": "toggle",
+  "loading": "Loading..."
 }
