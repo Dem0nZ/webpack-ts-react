@@ -4,5 +4,6 @@
   "about": "About page",
   "main": "Main page",
   "toggle": "toggle",
-  "loading": "Loading..."
+  "loading": "Loading...",
+  "page not found": "Page not found."
 }
