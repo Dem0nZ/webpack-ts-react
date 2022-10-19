@@ -1,8 +1,11 @@
 {
   "about": "about",
+  "an unexpected error occurred": "an unexpected error occurred",
   "language": "language",
   "loading": "loading",
   "main": "main",
   "page not found": "page not found",
+  "reload page": "reload page",
+  "throw error": "throw error",
   "toggle": "toggle"
 }

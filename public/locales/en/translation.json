@@ -5,5 +5,8 @@
   "main": "Main page",
   "toggle": "toggle",
   "loading": "Loading...",
-  "page not found": "Page not found."
+  "page not found": "Page not found.",
+  "an unexpected error occurred": "An unexpected error occurred",
+  "reload page": "Reload page",
+  "throw error": "throw error"
 }

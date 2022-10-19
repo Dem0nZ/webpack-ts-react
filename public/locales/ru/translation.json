@@ -5,5 +5,8 @@
   "main": "Главная страница",
   "toggle": "переключить",
   "loading": "Загрузка...",
-  "page not found": "Страница не найдена."
+  "page not found": "Страница не найдена.",
+  "an unexpected error occurred": "Произошла непредвиденная ошибка.",
+  "reload page": "перезагрузить страницу",
+  "throw error": "throw error"
 }
